@@ -1,6 +1,6 @@
-## Hi there 👋
+### Hi there 👋
 
-# Frontend Developer
+**Frontend Developer**
 Vue.js로 웹 애플리케이션 만들고 있습니다.
 
 **Using**  
