@@ -1,12 +1,13 @@
 ### Hi there 👋
 ---
-**Frontend Developer**
+**Frontend Developer** 
 Vue.js로 웹 애플리케이션 만들고 있습니다.
 
-**Using**  
-Vue 3 · JavaScript · HTML/CSS
+**Tech Stack**  
+Vue 3 · JavaScript · Firebase · HTML/CSS
 
-**Currently Learning**  
-React, TypeScript, Firebase
+**Learning**  
+React, TypeScript
+
 
 📧 uixhyeon@gmail.com | 💼 [Portfolio](링크)
